@@ -2,6 +2,9 @@
 KG(Knowledge Graph), KGQA, KG Embedding ...
 
 
+## Knowledge Graph
+* [https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers)
+  * KG 튜토리얼과 논문 모음 (HKUST 박사과정의 github)
 
 ## Knowledge Graph Contruction (KG construction)
 
